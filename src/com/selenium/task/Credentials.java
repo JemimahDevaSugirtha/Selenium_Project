@@ -9,7 +9,7 @@ public abstract class Credentials {
 	}
 	
 	public static String password() {
-		String a = "Senorita@97";
+		String a = "";
 		return a;
 	}
 
